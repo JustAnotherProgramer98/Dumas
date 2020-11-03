@@ -16,7 +16,7 @@ class OnTapTable extends StatefulWidget {
   @override
   _OnTapTableState createState() => _OnTapTableState();
 }
-
+ 
 // ignore: camel_case_types
 class _OnTapTableState extends State<OnTapTable> {
   updateParent(String text) {
