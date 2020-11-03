@@ -31,7 +31,7 @@ class _DeleteTableState extends State<DeleteTable> {
             children: [
               Logo.size(
                 letraSize: 80,
-              ),
+              ), 
               BarraDePantalla(mensaje: "Borrar Prenda"),
               Text(
                 "Elige una prenda a borrar",
