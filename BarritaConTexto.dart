@@ -9,7 +9,7 @@ class BarraDePantalla extends StatelessWidget {
 
   final double altopantalla;
   final String mensaje;
-
+  //SUCIO CULIAO
   @override
   Widget build(BuildContext context) {
     return Container(
