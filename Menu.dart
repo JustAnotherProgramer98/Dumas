@@ -126,7 +126,7 @@ class _BotonesState extends State<Botones> {
         ),
       ),
     );
-  }
+  } 
 }
 
 //LA CLASE PAINT , LA USE PARA HACER EL RACTANGULO
