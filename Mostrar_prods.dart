@@ -28,7 +28,7 @@ class _ProductsState extends State<Products> {
     //Hago que el stream este disponible en la clase
 
     void cambioDeValor(bool cambio) {
-      setState(() {
+      setState(() { 
         valoractual = cambio;
       });
     }
