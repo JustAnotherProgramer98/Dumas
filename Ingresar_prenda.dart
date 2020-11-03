@@ -78,7 +78,7 @@ class _Ingresar_prendaState extends State<Ingresarprenda> {
                           Text(
                             "Que color es",
                             style: widget.estilo_personalizado,
-                          ),
+                          ), 
                           SwitchConNombre(texto: "Nuevo color"),
                           SizedBox(height: 30),
                           Text("Precio", style: widget.estilo_personalizado),
